@@ -25,7 +25,7 @@ const SuperQuality = () => {
           <Button label="View Details" />
         </div>
       </div>
-      <div className="flex-1 {flex justify-center items-center"> 
+      <div className="flex-1 flex justify-center items-center"> 
         <img src={shoe8} alt="shoe8" width={570} height={522}  className="object-contain"/>
       </div>
     </section>
